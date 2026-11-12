@@ -1,0 +1,6 @@
+{
+  "name": "OSTTRA CRDS - STM Business Rules Config",
+  "description": "Credit Risk Directory Service (CRDS) Settle to Market (STM) FX & Rates Business Rules Configuration with 4-Eye Maker-Checker approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
